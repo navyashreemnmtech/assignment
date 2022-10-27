@@ -1,1 +1,2 @@
 select * from feature;
+select * from feature_girish;
